@@ -3,7 +3,11 @@ import Image from "next/image";
 import Link from "next/link";
 import { FaCodeBranch, FaEye, FaStar } from "react-icons/fa";
 async function fetchRepos() {
-  const res = await fetch("https://api.github.com/users/ndekocode/repos");
+  const res = await fetch("https://api.github.com/users/ndekocode/repos", {
+    next: {
+      revalidate: 60 * 60 * 24,
+    },
+  });
   const data = await res.json();
   return data;
 }
