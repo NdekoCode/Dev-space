@@ -33,5 +33,26 @@
     "description": "Learn Next.js by building a music event website and a web dev blog as a static website",
     "link": "https://www.traversymedia.com/next-js-dev-to-deployment",
     "level": "Intermediate"
+  },
+  {
+    "id": "35958e6b-6dcf-4d10-89cf-a83486053309",
+    "title": "70+ JavaScript Challenges: Data Structures & Algorithms",
+    "description": "Become a Better Programmer\n\nSharpen your problem solving skills and learn about important programming topics",
+    "link": "https://www.traversymedia.com/javascript-challeges",
+    "level": "Beginner"
+  },
+  {
+    "id": "301feeb6-5625-4441-9059-3f39becdb8ef",
+    "title": "Bootstrap 5 From Scratch",
+    "description": "https://www.traversymedia.com/next-js-dev-to-deployment",
+    "link": "Learn By Building Amazing Projects  Build modern-looking websites and UIs faster using the Bootstrap CSS framework",
+    "level": "Beginner"
+  },
+  {
+    "id": "e0ff0bb8-7c5f-4233-a41b-adbd6a965d3d",
+    "title": "Next.js Dev to Deployment Course",
+    "description": "Learn By Building Amazing Projects\n\nLearn Next.js by building a music event website.",
+    "link": "https://www.traversymedia.com/next-js-dev-to-deployment",
+    "level": "Intermediate"
   }
 ]
