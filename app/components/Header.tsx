@@ -62,6 +62,12 @@ const Header: FC = () => {
             </Link>
             <Link
               className="font-medium text-gray-500 hover:text-gray-400 md:py-6  "
+              href="/courses"
+            >
+              Courses
+            </Link>
+            <Link
+              className="font-medium text-gray-500 hover:text-gray-400 md:py-6  "
               href="/about"
             >
               About

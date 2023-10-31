@@ -14,6 +14,13 @@
     "level": "Intermediate"
   },
   {
+    "id": 2,
+    "title": "MERN Stack From Scratch - eCommerce",
+    "description": "Build A Full-Featured eCommerce Platform, Shopping cart, product search, admin area, PayPal integration & more",
+    "link": "https://www.traversymedia.com/mern-stack-from-scratch",
+    "level": "Intermediate"
+  },
+  {
     "id": 3,
     "title": "Modern JavaScript From The Beginning",
     "description": "37 hour course that teaches you all of the fundamentals of modern JavaScript.",
