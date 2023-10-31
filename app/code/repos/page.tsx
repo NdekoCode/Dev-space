@@ -11,7 +11,7 @@ const ReposPage: NextPage = async () => {
   const repos = await fetchRepos();
   return (
     <div>
-      <h1>My repository</h1>
+      <h1 className="title">My repository</h1>
       {/* Card Section */}
       <div className="max-w-[85rem] px-4 py-10 w-max sm:px-6 lg:px-8 lg:py-14 mx-auto">
         {/* Grid */}
